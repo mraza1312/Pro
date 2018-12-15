@@ -4,7 +4,7 @@
 
 # it was created as a part of an assignment from the mooc:The Unix Workbench
  
-chmod +x guessingno.sh
+chmod +x guessinggame.sh
 
 echo "hello there! Can you guess how many files are there in this
 directory?"
